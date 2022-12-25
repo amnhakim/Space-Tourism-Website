@@ -349,14 +349,17 @@ select {
   list-style: none;
   padding: 0;
   margin: 0;
+  background: rgb(var(--clr-white) / 0.05);
+  -webkit-backdrop-filter: blur(1.5rem);
+  backdrop-filter: blur(1.5rem);
 }
 
-@supports (backdrop-filter: blur(1rem)) {
+/* @supports (backdrop-filter: blur(1rem)) {
   .primary-navigation {
     background: rgb(var(--clr-white) / 0.05);
     backdrop-filter: blur(1.5rem);
   }
-}
+} */
 .primary-navigation a {
   text-decoration: none;
 }
