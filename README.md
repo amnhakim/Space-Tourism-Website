@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- GitHub repo: [Add solution URL here](https://github.com/amnhakim/Space-Tourism-Website)
-- Live Site URL: [Add live site URL here](https://amnhakim.github.io/Space-Tourism-Website/)
+- GitHub repo: [(https://github.com/amnhakim/Space-Tourism-Website)](https://github.com/amnhakim/Space-Tourism-Website)
+- Live Site URL: [(https://amnhakim.github.io/Space-Tourism-Website/)](https://amnhakim.github.io/Space-Tourism-Website/)
 
 ## My process
 
