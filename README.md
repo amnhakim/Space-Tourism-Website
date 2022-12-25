@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- GitHub repo: [Add solution URL here](https://your-solution-url.com)
+- GitHub repo: [Add solution URL here](https://github.com/amnhakim/Space-Tourism-Website)
 - Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://amnhakim.github.io/Space-Tourism-Website/))
 
 ## My process
@@ -60,5 +60,5 @@ I learned build website by using css grid and flexbox. Then, learn how to make c
 
 ## Author
 
-- Website - [aimanhakim]([https://www.your-site.com](https://amnhakim.github.io/Space-Tourism-Website/))
+- Website - [aimanhakim](https://amnhakim.github.io/Space-Tourism-Website/)
 - Frontend Mentor - [@amnhakim](https://www.frontendmentor.io/profile/amnhakim)
