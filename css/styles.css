@@ -484,6 +484,7 @@ select {
   border: 0;
   border-radius: 50%;
   cursor: pointer;
+  padding: 0.5em;
   background-color: rgb(var(--clr-white) / 0.25);
 }
 
